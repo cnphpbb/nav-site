@@ -195,6 +195,10 @@
           logo: 城通网盘.png
           usrl: https://www.ctfile.com/
           description: 城通网盘官网。
+        - title: 夸克网盘
+          logo: R-C.png
+          usrl: https://pan.quark.cn/
+          description: 夸克网盘官网。
     - term: 图标素材
       links:
         - title: Iconfinder
